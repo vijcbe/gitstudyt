@@ -3,6 +3,9 @@ this is test 1
 Now added 
 
 
-line in between
+line in 
+
+
+between
 
 Deleted all conflicted lines
