@@ -11,4 +11,10 @@ between
 Deleted all conflicted lines
 
 
+
 test 1 is changed for merge purpose from test 1
+
+Changes made for master purpose - 31.5.2014
+
+Changes2 made for master purpose - 31.5.2014
+

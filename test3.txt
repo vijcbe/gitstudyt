@@ -1,0 +1,14 @@
+this is test 1
+
+Now added 
+
+
+line in 
+
+
+between
+
+Deleted all conflicted lines
+
+
+Changes made for master purpose - 31.5.2014
