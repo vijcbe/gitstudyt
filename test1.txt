@@ -14,3 +14,5 @@ Deleted all conflicted lines
 Changes made for master purpose - 31.5.2014
 
 Changes2 made for master purpose - 31.5.2014
+
+Changes3 made for master purpose - 31.5.2014
