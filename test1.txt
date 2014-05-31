@@ -9,3 +9,6 @@ line in
 between
 
 Deleted all conflicted lines
+
+
+test 1 is changed for merge purpose from test 1
