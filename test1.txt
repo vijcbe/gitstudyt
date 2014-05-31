@@ -18,3 +18,7 @@ Changes made for master purpose - 31.5.2014
 
 Changes2 made for master purpose - 31.5.2014
 
+<<<<<<< HEAD
+=======
+Changes3 made for master purpose - 31.5.2014
+>>>>>>> remotes/origin/master
